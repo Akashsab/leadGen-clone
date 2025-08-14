@@ -1,0 +1,780 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.row1 
+{
+    width: 100%;
+    background-color:rgb(31, 31, 31);
+    position: fixed;
+}
+
+ul
+{
+    float: right;
+    color: rgb(197, 164, 126);
+    padding-top: 10px;
+    padding-right: 30px;
+}
+li
+{
+    display: inline;
+    float: right;
+    padding: 20px;
+    font-size: 12px;
+    
+    
+}
+.column1
+{
+    width: 50%;
+    padding: 20px;
+    padding-left: 50px;
+    size: 20px;
+    
+}
+
+.row2{
+    width: 100%;
+    height: 150vh;
+    background-image: url(travel-slider-01.jpg);
+    background-repeat: no-repeat;
+}
+
+.column3{
+        color: white;
+    padding-top: 310px;
+    padding-left: 100px;
+    width: 50%;
+    font-size: 24px;
+}
+.intro
+{
+    border: 5px solid;
+    padding: 40px;
+    margin-right: 100px;
+    border-color: rgb(197, 164, 126);
+}
+.b1
+{
+    color: black;
+    background-color: white;
+    width: 120px;
+    height: 40px;
+    border: 0px;
+}
+.row3
+{
+    width: 100%;
+    background-color: rgb(31, 31, 31);
+    display: flex;
+}
+.column4
+{
+    width: 50%;
+    display: inline;
+    padding: 100px;
+
+
+}
+.column5
+{
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    padding-top:  100px;
+    
+}
+.para1
+{
+    font-size: 35px;
+    color: rgb(197, 164, 126) ;
+}
+.para2
+{
+    color: rgb(130, 129, 129);
+}
+.column4 button
+{
+    background-color: transparent;
+    color: rgb(197, 164, 126)  ;
+    border-radius: 20px;
+    width: 180px;
+    height: 40px;
+    border: 2px solid;
+    border-color:  rgb(197, 164, 126);
+    
+
+}
+
+.row4
+{
+ width: 100%;
+ display: flex;
+ background-color: rgb(39, 39, 39) ;
+}
+.column6
+{
+    width: 50%;
+    
+
+}
+.column7
+{
+    float: right;
+    display: flex;
+    width: 50%;
+    padding-right: 120px;
+    height: 100vh;
+
+}
+.subr1
+{
+    width: 100%;
+    display:inline;
+}
+.inte
+
+{
+    font-size: 35px;
+    color: rgb(197, 164, 126) ;
+    padding-left: 100px;
+      
+}
+.cnt1
+{
+    color: rgb(130, 129, 129);
+    font-size: 15px;
+    padding-left: 100px;
+}
+
+
+.subr2
+{
+    width: 100%;
+    display:flex;
+    
+    
+}
+.subcl1
+{
+    width: 50%;
+    
+    
+}
+.subcl2
+{
+    width: 50%;
+
+}
+.exp 
+{
+    padding-left: 100px;
+    font-size: 20px;
+    color: rgb(171, 167, 167);
+}
+.exp svg{
+    color: rgb(197, 164, 126) ;
+}
+.cnt2
+{
+    padding-left: 100px;
+    color: rgb(130, 129, 129);
+    font-size: 15px;
+}
+.coll
+{
+    padding-left: 100px;
+    font-size: 20px;
+    color: rgb(171, 167, 167);
+    
+}
+.coll svg{
+    color: rgb(197, 164, 126) ;
+}
+.des svg{
+    color: rgb(197, 164, 126) ;
+}
+.lim svg{
+    color: rgb(197, 164, 126) ;
+}
+.cnt3
+{
+    padding-left: 100px;
+    color: rgb(130, 129, 129);
+    font-size: 15px;
+    
+}
+.subr3
+{
+    width: 100%;
+    display:flex;
+    
+}
+.subcl3
+{
+    width: 50%;
+  
+}
+.des
+{
+    padding-left: 100px;
+    font-size: 20px;
+    color: rgb(171, 167, 167);
+}
+.cnt4
+{
+    padding-left: 100px;
+    color: rgb(130, 129, 129);
+    font-size: 15px;
+}
+.subcl4
+{
+    width: 50%;
+
+}
+.lim
+{
+    padding-left: 100px;
+    font-size: 20px;
+    color: rgb(171, 167, 167);
+}
+.cnt5
+{
+    padding-left: 100px;
+    color: rgb(130, 129, 129);
+    font-size: 15px;
+
+}
+.cut
+{
+    color:rgb(197, 164, 126) ;
+}
+.row5
+{
+    background-color: rgb(31, 31, 31);
+    width: 100%;
+    height: 150vh;
+    
+
+}
+.subr4
+{
+    width: 100%;
+}
+.our
+{
+    font-size: 35px;
+    color: rgb(197, 164, 126) ;
+    text-align: center;
+    padding-top: 100px;
+}
+.type
+{
+    color: rgb(130, 129, 129);
+    font-size: 15px;
+    text-align: center;
+}
+.subr5
+{
+    width: 100%;
+    display: flex;
+    height: 450px;
+    
+    
+}
+.subcl5
+{
+    width: 25%;
+    display: flex;
+    padding: 15px;
+    padding-left: 50px;
+    
+    
+}
+.subcl6
+{
+    width: 25%;
+    display: flex;
+    padding: 15px;
+}
+.subcl7
+{
+    width: 25%;
+    display: flex;
+    padding: 15px;
+}
+.subcl8
+{
+    width: 25%;
+    display: flex;
+    padding: 15px;
+    padding-right: 50px;
+
+}
+.subr6
+{
+    width: 100px;
+    display: flex;
+}
+.subr5 h6
+{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    border-bottom: 400px solid;
+    border-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}
+.subr5 p
+{
+    color: rgb(130, 129, 129) ;
+    font-size: 8px;
+
+}
+.are
+{
+    color: white;
+    background-color:black;
+    text-align: center;
+    font-size: 25px;
+    padding: 50px;
+    
+
+}
+.row6
+{
+    width: 100%;
+
+}
+.row6 button
+{
+    background-color:rgb(197, 164, 126) ;
+    border-radius: 20px;
+    width: 180px;
+    height: 40px;
+    color: white;
+    border: 0px;
+    
+
+    
+    
+}
+.subr9
+{
+    width: 100%;
+
+}
+.subr9 svg
+{
+    color: white;
+   
+    
+    
+    
+    
+
+}
+.subr7
+{
+    width: 100%;
+
+}
+.subr7
+{
+    width: 100%;
+    background-color: rgb(31, 31, 31);
+}
+.pro
+{
+    color:rgb(197, 164, 126) ;
+    text-align: center;
+    font-size: 35px;
+}
+.sin
+{
+    color: rgb(130, 129, 129);
+    text-align: center;
+    font-size: 13px;
+}
+.row7
+{
+    width: 100%;
+    background-color:  rgb(31, 31, 31);
+}
+.subr10
+{
+    width: 100%;
+    display: flex;
+    height: 340px;
+    
+}
+.subcl9, .subcl10, .subcl11
+{
+    width: 33%;
+    display: flex;
+    padding: 5px;
+   
+}
+.subr11
+{
+    width: 100%;
+    display: flex;
+    height: 340px; 
+}
+.subcl11 svg{
+    color:rgb(197, 164, 126) ;
+}
+.subcl12, .subcl13, .subcl14
+{
+      width: 33%;
+    display: flex;
+    padding: 5px;
+    
+}  
+.row8
+{
+    width: 100%;
+    display: flex;
+    background-color:  rgb(31, 31, 31);
+    
+}
+.subcl15, .subcl16, .subcl17, .subcl18
+{
+    width: 25%;
+    display: flex;
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    font-size: 20px;
+}
+.num
+{
+    color: rgb(197, 164, 126) ;
+    text-align: center;
+    
+}
+.de
+{
+    color:rgb(130, 129, 129);
+    text-align: center;
+    font-size: 10px;
+}
+
+.row9
+{
+    width: 100%;
+    display: flex;
+    
+}
+.column8
+{
+    width: 50px;
+    
+}
+.column9
+{
+    width: 400px;
+    background-color:rgb(15, 14, 14);
+    height:56.5vh;
+    margin-left: 60px;
+    padding: 100px;
+
+}
+.one
+{
+    color: rgb(197, 164, 126) ;
+    font-size: 40px;
+
+}
+.two
+{
+    color:rgb(130, 129, 129);
+}
+.three
+{
+    color:rgb(130, 129, 129);
+}
+.column10
+{
+    width: 50px;
+}
+.row9{
+    background-image: url(fitness-about-bg.jpg);
+        
+   background-size: 1900px;
+   height: 90vh;
+    width: 100%;
+    background-position: center;
+   
+    background-repeat: no-repeat;
+    
+}
+.ex
+{
+    color: white;
+    background-color: rgb(197, 164, 126) ;
+    border: 0px;
+    pad: 2px;
+    width: 150px;
+    height: 35px;
+    border-radius: 3px;
+}
+.row10
+{
+    width: 100%;
+    background-color: rgb(31, 31, 31);
+}
+.subr12
+{
+    width: 100%;
+    display: inline;
+    text-align: center;
+    
+}
+.cli
+{
+    color: rgb(197, 164, 126) ;
+    font-size: 30px;
+}
+.lorn
+{
+    color:rgb(130, 129, 129);
+    font-size: 14px;
+}
+.subr13
+{
+    width: 100%;
+   display: flex;
+}
+.subr13  div img
+{
+ height: 150px;
+}
+.subcl19, .subcl20, .subcl21, .subcl22
+{
+    width: 25%;
+    padding: 25px;   
+}
+.row11
+{
+    background-image: url(hero-bg4.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    height: 100vh;
+    background-position: -125px;
+}
+.sim
+{
+    color: black;
+    font-size: 45px;
+    padding-left: 50px;
+     
+}
+.good
+{
+    font-weight: 100;
+    padding-left: 50px;
+    color: rgb(49, 49, 49);
+    font-size: 20px;
+}
+.let
+{
+    color: white;
+    background-color: rgb(49, 49, 49);
+    border-radius: 50px;
+    border: 0px;
+    width: 250px;
+    height: 45px;
+    margin-left: 50px;
+    padding-bottom: 10px;
+
+}
+.ar
+{
+    height: fit-content;
+    padding-left: 10px;
+    padding-top: 10px;
+    height: 15px;
+}
+.row12
+{
+    width: 100%;
+    background-color:rgb(31, 31, 31);
+}
+.subr14
+{
+    width: 100%;
+    display: inline;
+    
+}
+.lat
+{
+    text-align: center;
+    color: rgb(197, 164, 126) ;
+    font-size: 30px;
+}
+.dum
+{
+    color:rgb(130, 129, 129);
+    text-align: center;
+}
+.subr15
+{
+    width: 100%;
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+
+}
+
+.noth
+{
+    color: rgb(197, 164, 126) ;
+    font-size: 15px;
+    padding-left: 20px;
+}
+.silver
+{
+    color: rgb(130, 129, 129);
+    padding-left: 20px;
+    font-size: 13px;
+}
+hr
+{
+    margin: 20px;
+    border-color:  rgb(130, 129, 129);
+
+}
+.five
+{
+    color:rgb(130, 129, 129);
+    font-size: 10px;
+    padding-left: 20px;
+}
+.row13
+{
+    width: 100%;
+    background-color:rgb(39, 39, 39) ;
+}
+.subr16
+{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(39, 39, 39) ;
+    font-size: 30px;
+    color: rgb(197, 164, 126) ;
+}
+.subr17
+{
+    width: 100%;
+    display: flex;
+    background-color:rgb(39, 39, 39) ;
+    color: rgb(130, 129, 129);
+    text-align: center;
+    font-weight: 100px;
+    font-size: 13px;
+}
+.subcl26, .subcl27, .subcl28
+{
+    width: 33%;
+    padding: 50px;
+}
+.loc
+{
+    color: rgb(197, 164, 126) ;
+    
+}
+.subr18
+{
+    width: 100%;
+    display: flex;
+}
+.subcl30
+{
+    width: 50%;
+}
+input
+{
+    border-radius: 0px;
+    border: 0px;
+    
+}
+#text, #mail, #number
+{
+    margin-left: 50px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 350px;
+}
+#address
+{
+    border: 0px;
+    border-radius: 0px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 75px;
+    padding-right: 350px;
+}
+.but
+{
+    color: white;
+    background-color:rgb(197, 164, 126) ;
+    border: 0px;
+    padding: 10px;
+    border-radius: 3px;
+}
+.row14
+{
+    width: 100%;
+    display: flex;
+    background-color:rgb(31, 31, 31);
+}
+.column10
+{
+    width: 33%;
+    padding: 20px;
+    padding-left: 50px;
+    size: 20px;
+    padding-top: 40px;
+}
+.column11
+{
+    width: 33%;
+}
+.last
+{
+    
+    color:rgb(130, 129, 129);
+    font-size: 12px;
+    padding-top: 50px;
+}
+.column12 
+{
+    width: 33%;
+}
+.sv 
+{
+    color: rgb(197, 164, 126) ;
+    padding-top: 50px;
+    
+}
+.column12 svg
+{
+    padding-left: 40px;
+}
+
+
+
+
